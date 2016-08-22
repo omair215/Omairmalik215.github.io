@@ -1,0 +1,21 @@
+h1 {
+  text-align: center;
+  color: white;
+  font-family: 'Comfortaa', cursive;;
+  font-size: 50px;
+}
+#wrapper {
+  margin: 0 auto;
+}
+#gameCanvas {
+
+  margin: 0 auto;
+  position:absolute;
+  left:50%;
+  margin-left:-400px;
+  top:50%;
+  margin-top:-300px;
+}
+body {
+  background-color: green;
+}
